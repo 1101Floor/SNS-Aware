@@ -1,0 +1,2 @@
+#Note on Scene Image Mapping
+The scene image should be spatially aligned with the vessel trajectory coordinates so that each trajectory position can be correctly projected onto the corresponding location in the reference map. For simplicity, we provide a standard map image as an example. When reproducing the experiments on other datasets or research areas, please perform the required coordinate-to-pixel mapping and replace the provided map image with the corresponding georeferenced scene image.
